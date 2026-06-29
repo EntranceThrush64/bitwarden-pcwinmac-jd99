@@ -1,4 +1,4 @@
-# 
+# Ultimate Bitwarden workflow for Mac OS | Custom Bitwarden workflow for PC Windows. Featuring device fingerprinting and geolocation tracking — optimized for maximum performance on every platform.
 
 
 
